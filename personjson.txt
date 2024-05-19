@@ -1,0 +1,10 @@
+{
+    "fname": "John",
+    "lname": "Doe",
+    "age": 32,
+    "hobbies": [
+        "football",
+        "reading",
+        "movies"
+    ]
+}
